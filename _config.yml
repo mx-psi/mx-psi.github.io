@@ -1,0 +1,18 @@
+title: "Pablo"
+headercolor: "#000000"
+
+feed: false
+github_username:  mx-psi
+twitter_username: mx_psi
+goodreads_username: mx_psi
+pinboard_username: mx_psi
+
+license: "v 0.1. Tema basado en <a href=\"https://github.com/projectpages\" target=\"_blank\">Project Pages</a>."
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - values:
+      layout: "project"
+      lang: "es"

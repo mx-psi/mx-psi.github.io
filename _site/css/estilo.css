@@ -1,0 +1,106 @@
+:root {
+  --bg-color: #fcfcfb;
+  --font-color: #404040;
+  --decoration-color: gray;
+  --name-color: black;
+  --link-color: #268bd2;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #030304;
+    --font-color: #d9d9d9;
+    --decoration-color: gray;
+    --name-color: white;
+    --link-color: #a5d0ee;
+  }
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 19px;
+  color: var(--font-color);
+}
+
+header {
+  max-width: 36em;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.initial-sentence {
+  text-align: center;
+  font-size: 1.5em;
+  color: var(--decoration-color);
+  margin-bottom: 0.4em;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  list-style-type: circle;
+  padding-bottom: 0.4rem;
+}
+
+nav > ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 1em;
+  padding-left: 0;
+}
+
+nav > ul > li {
+  list-style: none;
+  margin-top: 20px;
+  text-align: center;
+  min-width: 5em;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
+section {
+  flex: 1 1 auto;
+  padding: 1rem 2.5rem;
+  width: 40%;
+}
+
+#contact {
+  font-weight: bold;
+  border-bottom: 1px solid;
+}
+
+.name {
+  font-size: 2em;
+  color: var(--name-color);
+}
+
+a {
+  text-decoration: none;
+  color: var(--link-color);
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+h3 {
+  font-size: 1.75rem;
+}

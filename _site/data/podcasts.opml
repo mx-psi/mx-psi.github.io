@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>17 May 20 13:47:58 +0200</dateCreated>
+  </head>
+  <body>
+    <outline text="80,000 Hours Podcast with Rob Wiblin" title="80,000 Hours Podcast with Rob Wiblin" type="rss" xmlUrl="https://feeds.feedburner.com/80000HoursPodcast" htmlUrl="https://80000hours.org/podcast/" />
+    <outline text="Adventures in New America" title="Adventures in New America" type="rss" xmlUrl="http://feeds.nightvalepresents.com/adventuresinnewamerica" htmlUrl="http://adventuresinnewamerica.com/" />
+    <outline text="Blood Ties" title="Blood Ties" type="rss" xmlUrl="https://rss.art19.com/blood-ties" htmlUrl="https://wondery.com/shows/blood-ties/?utm_source=rss" />
+    <outline text="BuzzFeed's Internet Explorer" title="BuzzFeed's Internet Explorer" type="rss" xmlUrl="https://anchor.fm/s/97db258/podcast/rss" htmlUrl="https://anchor.fm/buzzfeeds-internet-explorer" />
+    <outline text="Criminal" title="Criminal" type="rss" xmlUrl="http://feeds.thisiscriminal.com/CriminalShow" htmlUrl="http://thisiscriminal.com/" />
+    <outline text="CYBER" title="CYBER" type="rss" xmlUrl="https://rss.acast.com/cyber" htmlUrl="https://www.vice.com/en_us/topic/cyber" />
+    <outline text="Dreamboy" title="Dreamboy" type="rss" xmlUrl="http://feeds.nightvalepresents.com/dreamboypodcast" htmlUrl="http://dreamboypodcast.com/" />
+    <outline text="Duolingo French Podcast" title="Duolingo French Podcast" type="rss" xmlUrl="https://frpodcast.libsyn.com/rss" htmlUrl="https://podcast.duolingo.com/french" />
+    <outline text="Extremities" title="Extremities" type="rss" xmlUrl="https://anchor.fm/s/beba70c/podcast/rss" htmlUrl="wendoverproductions.com" />
+    <outline text="Future Perfect" title="Future Perfect" type="rss" xmlUrl="https://feeds.megaphone.fm/futureperfect" htmlUrl="https://www.vox.com/future-perfect-podcast" />
+    <outline text="Negra y criminal" title="Negra y criminal" type="rss" xmlUrl="http://fapi-top.prisasd.com/podcast/podium/negra_y_criminal/itunestfp/podcast.xml" htmlUrl="http://www.podiumpodcast.com/negra-y-criminal/" />
+    <outline text="pluspluspodcast" title="pluspluspodcast" type="rss" xmlUrl="http://rss.acast.com/pluspluspodcast" htmlUrl="https://motherboard.vice.com/en_us/topic/pluspluspodcast" />
+    <outline text="Pounded In The Butt By My Own Podcast" title="Pounded In The Butt By My Own Podcast" type="rss" xmlUrl="http://feeds.nightvalepresents.com/PoundedInTheButtByMyOwnPodcast" htmlUrl="http://poundedinthebuttbymyownpodcast.com/" />
+    <outline text="PsychCrunch" title="PsychCrunch" type="rss" xmlUrl="http://psychcrunch.libsyn.com/rss" htmlUrl="http://psychcrunch.libsyn.com/podcast" />
+    <outline text="Rationally Speaking Podcast" title="Rationally Speaking Podcast" type="rss" xmlUrl="https://rationallyspeakingpodcast.libsyn.com/rss" htmlUrl="http://rationallyspeakingpodcast.org" />
+    <outline text="Reply All" title="Reply All" type="rss" xmlUrl="http://feeds.megaphone.fm/GLT6865004529" htmlUrl="http://gimletmedia.com/shows/reply-all" />
+    <outline text="Reset" title="Reset" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP9176219298" htmlUrl="https://vox.com/recode" />
+    <outline text="Say Why To Drugs" title="Say Why To Drugs" type="rss" xmlUrl="http://rss.acast.com/saywhytodrugs" htmlUrl="http://www.theguardian.com/profile/suzi-gage" />
+    <outline text="Science Solved It" title="Science Solved It" type="rss" xmlUrl="http://rss.acast.com/sciencesolvedit" htmlUrl="https://www.vice.com/en_us/topic/science-solved-it" />
+    <outline text="The Bright Sessions" title="The Bright Sessions" type="rss" xmlUrl="https://feeds.megaphone.fm/thebrightsessions" htmlUrl="http://thebrightsessions.com" />
+    <outline text="The New Yorker: Politics and More" title="The New Yorker: Politics and More" type="rss" xmlUrl="http://feeds.wnyc.org/tnypoliticalscene" htmlUrl="https://www.wnyc.org/shows/new-yorker-political-scene" />
+    <outline text="The News from BuzzFeed News" title="The News from BuzzFeed News" type="rss" xmlUrl="https://anchor.fm/s/97dba8c/podcast/rss" htmlUrl="https://anchor.fm/the-news-from-buzzfeed-news" />
+    <outline text="The Scaredy Cats Horror Show" title="The Scaredy Cats Horror Show" type="rss" xmlUrl="https://feeds.megaphone.fm/scaredycats" htmlUrl="https://gimletmedia.com/shows/scaredy-cats" />
+    <outline text="This is Love" title="This is Love" type="rss" xmlUrl="http://feeds.thisiscriminal.com/thisislovepodcast" htmlUrl="https://www.thisislovepodcast.com/" />
+    <outline text="Within the Wires" title="Within the Wires" type="rss" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" htmlUrl="http://withinthewires.com/" />
+  </body>
+</opml>
