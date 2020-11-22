@@ -33,6 +33,7 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Black Orchestra                       | 3       |
 | Deception: Murder in Hong Kong        | 3       |
 | Disney Villainous                     | 3       |
+| Gloomhaven: Jaws of the Lion          | 3       |
 | Obscurio                              | 3       |
 | PARKS                                 | 3       |
 | Spirit Island                         | 3       |
@@ -139,6 +140,9 @@ Videojuegos para Switch
   <!-- - [EFF shop](https://supporters.eff.org/shop) -->
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
+- [Mossery](https://www.mossery.co)
+- [Heikala](https://heikala.com/)
+- [OHMYEMI](https://store.ohmyemi.com/products)
 
 ### Cosas específicas
 
