@@ -93,13 +93,14 @@ Videojuegos para Switch
 | Untitled Goose Game                  | 5       |
 | Yoshi's Crafted World                | 5       |
 | Luigi's Mansion 3                    | 5       |
+| Crusader Kings III                   | 4       |
 | Into the breach                      | 4       |
 | ~~Pikuniku~~                         | ~~4~~   |
 | Ring Fit Adventure                   | 4       |
 | Cuphead                              | 3       |
 | Diablo III                           | 3       |
 | L.A. Noire                           | 3       |
-| Phoenix Wright: Ace Attorney Trilogy | 3       |
+| ~~Phoenix Wright: Ace Attorney Trilogy~~ | 3       |
 | Splatoon 2                           | 3       |
 | Cave Story +                         | 2       |
 | Celeste                              | 2       |
@@ -149,4 +150,4 @@ Videojuegos para Switch
 - [Camiseta de LGSM](https://housmans.com/product/pits-perverts-t-shirt/)
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
 
-_Ultima actualización:_ **Julio 2020**
+_Ultima actualización:_ **Noviembre 2020**
