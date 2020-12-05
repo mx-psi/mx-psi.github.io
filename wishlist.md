@@ -48,7 +48,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Sid Meier's Civilization: A New Dawn  | 1       |
 | Splendor                              | 1       |
 | The Resistance: Avalon                | 1       |
-
 </details>
 
 <details markdown="1">
@@ -69,9 +68,9 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | How To                      | Randall Munroe        | 4       |
 | Monstress                   | Marjorie M. Liu       | 3       |
 | The Refrigerator Monologues | Catherynne M. Valente | 3       |
-| Understanding Class         | Erik Olin Wright      | 3       |
+| ~~Understanding Class~~     | ~~Erik Olin Wright~~  | ~~3~~   |
 | We Have No Idea             | Jorge Cham            | 3       |
-| Caliban and the Witch       | Silvia Federici       | 2       |
+| ~~Caliban and the Witch~~   | ~~Silvia Federici~~   | ~~2~~   |
 | Economics: The User's Guide | Ha-Joon Chang         | 2       |
 | Ghost Work                  | Mary L. Gray          | 2       |
 | Time Biases                 | Meghan Sullivan       | 2       |
@@ -79,7 +78,6 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Do Colors Exist             | Seth Cottrell         | 1       |
 | Fábulas #2                  | Bill Willingham       | 1       |
 | Les Diners de Gala          | Salvador Dalí         | 1       |
-
 </details>
 
 <details markdown="1">
@@ -87,30 +85,30 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch
 </summary>
 
-| Videojuego                           | Cuantil |
-| ------------------------------------ | ------- |
-| ~~Paper Mario: Origami King~~        | ~~5~~   |
-| Untitled Goose Game                  | 5       |
-| Yoshi's Crafted World                | 5       |
-| Luigi's Mansion 3                    | 5       |
-| Crusader Kings III                   | 4       |
-| Into the breach                      | 4       |
-| ~~Pikuniku~~                         | ~~4~~   |
-| Ring Fit Adventure                   | 4       |
-| Cuphead                              | 3       |
-| Diablo III                           | 3       |
-| L.A. Noire                           | 3       |
+| Videojuego                               | Cuantil |
+| ---------------------------------------- | ------- |
+| ~~Paper Mario: Origami King~~            | ~~5~~   |
+| Untitled Goose Game                      | 5       |
+| Yoshi's Crafted World                    | 5       |
+| Luigi's Mansion 3                        | 5       |
+| Crusader Kings III                       | 4       |
+| Return of the Obra Dinn                  | 4       |
+| Into the breach                          | 4       |
+| ~~Pikuniku~~                             | ~~4~~   |
+| Ring Fit Adventure                       | 4       |
+| Cuphead                                  | 3       |
+| Diablo III                               | 3       |
+| L.A. Noire                               | 3       |
 | ~~Phoenix Wright: Ace Attorney Trilogy~~ | 3       |
-| Splatoon 2                           | 3       |
-| Cave Story +                         | 2       |
-| Celeste                              | 2       |
-| Overland                             | 2       |
-| Sonic Mania Plus                     | 2       |
-| Hotline Miami Collection             | 1       |
-| Kentucky Route Zero                  | 1       |
-| Stardew Valley                       | 1       |
-| Superhot                             | 1       |
-
+| Splatoon 2                               | 3       |
+| Cave Story +                             | 2       |
+| Celeste                                  | 2       |
+| Overland                                 | 2       |
+| Sonic Mania Plus                         | 2       |
+| Hotline Miami Collection                 | 1       |
+| Kentucky Route Zero                      | 1       |
+| Stardew Valley                           | 1       |
+| Superhot                                 | 1       |
 </details>
 
 <!-- ### Cosas concretas -->
