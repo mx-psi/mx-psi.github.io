@@ -16,136 +16,39 @@ Juegos de mesa
 </summary>
 Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/user/mx_psi).
 
-<table>
-<thead>
-<tr class="header">
-<th>Juego de mesa</th>
-<th>Cuantil</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Cartographers: A Roll Player Tale</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>Machi Koro Legacy</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>Secret Hitler</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>The Chameleon</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>The Lost Expedition</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>Wingspan</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>The Crew: The Quest for Planet Nine</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Chronicle</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Dinosaur Island</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Ex Libris</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Summit: The Board Game</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Timebomb</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Black Orchestra</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Deception: Murder in Hong Kong</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Disney Villainous</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Gloomhaven: Jaws of the Lion</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Obscurio</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>PARKS</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Spirit Island</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Deep Sea Adventure</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Escape from the Aliens in Outer Space</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>In a Grove</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Nyctophobia</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>Seize the Bean</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Gloomhaven</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>SET</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>Sherlock Holmes Consulting Detective</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>Sid Meier’s Civilization: A New Dawn</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>Splendor</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>The Resistance: Avalon</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
+| Juego de mesa                         | Cuantil |
+| ------------------------------------- | ------- |
+| Cartographers: A Roll Player Tale     | 5       |
+| Machi Koro Legacy                     | 5       |
+| Secret Hitler                         | 5       |
+| The Chameleon                         | 5       |
+| The Lost Expedition                   | 5       |
+| Wingspan                              | 5       |
+| The Crew: The Quest for Planet Nine   | 4       |
+| Chronicle                             | 4       |
+| Dinosaur Island                       | 4       |
+| Ex Libris                             | 4       |
+| Summit: The Board Game                | 4       |
+| Timebomb                              | 4       |
+| Black Orchestra                       | 3       |
+| Deception: Murder in Hong Kong        | 3       |
+| Disney Villainous                     | 3       |
+| Gloomhaven: Jaws of the Lion          | 3       |
+| Obscurio                              | 3       |
+| PARKS                                 | 3       |
+| Spirit Island                         | 3       |
+| Deep Sea Adventure                    | 2       |
+| Escape from the Aliens in Outer Space | 2       |
+| In a Grove                            | 2       |
+| Nyctophobia                           | 2       |
+| Seize the Bean                        | 2       |
+| Gloomhaven                            | 1       |
+| SET                                   | 1       |
+| Sherlock Holmes Consulting Detective  | 1       |
+| Sid Meier's Civilization: A New Dawn  | 1       |
+| Splendor                              | 1       |
+| The Resistance: Avalon                | 1       |
+
 </details>
 
 <details markdown="1">
@@ -154,254 +57,54 @@ Libros y cómics
 </summary>
 Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user/show/23538284-psi).
 
-<table>
-<thead>
-<tr class="header">
-<th>Juego de mesa</th>
-<th>Cuantil</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Cartographers: A Roll Player Tale</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>Machi Koro Legacy</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>Secret Hitler</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>The Chameleon</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>The Lost Expedition</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>Wingspan</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>The Crew: The Quest for Planet Nine</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Chronicle</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Dinosaur Island</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Ex Libris</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Summit: The Board Game</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>Timebomb</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Black Orchestra</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Deception: Murder in Hong Kong</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Disney Villainous</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Gloomhaven: Jaws of the Lion</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Obscurio</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>PARKS</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Spirit Island</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Deep Sea Adventure</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Escape from the Aliens in Outer Space</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>In a Grove</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Nyctophobia</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>Seize the Bean</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Gloomhaven</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>SET</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>Sherlock Holmes Consulting Detective</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>Sid Meier’s Civilization: A New Dawn</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>Splendor</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>The Resistance: Avalon</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
+| Libro o cómic               | Autor/a               | Cuantil |
+| --------------------------- | --------------------- | ------- |
+| Wings of Renewal            | Claudie Arseneault    | 5       |
+| Invincible                  | Pascal Jousselin      | 5       |
+| Bullshit Jobs               | David Graeber         | 4       |
+| The Geography of Morals     | Owen J. Flanagan      | 4       |
+| House of Leaves             | Mark Z. Danielewski   | 4       |
+| How To                      | Randall Munroe        | 4       |
+| Monstress                   | Marjorie M. Liu       | 3       |
+| The Refrigerator Monologues | Catherynne M. Valente | 3       |
+| We Have No Idea             | Jorge Cham            | 3       |
+| Economics: The User's Guide | Ha-Joon Chang         | 2       |
+| Ghost Work                  | Mary L. Gray          | 2       |
+| Time Biases                 | Meghan Sullivan       | 2       |
+| Cloud Atlas                 | David Mitchell        | 1       |
+| Do Colors Exist             | Seth Cottrell         | 1       |
+| Fábulas #2                  | Bill Willingham       | 1       |
+| Les Diners de Gala          | Salvador Dalí         | 1       |
 
 </details>
 
 <details markdown="1">
 <summary markdown="1">
-Videojuegos para Switch
+Videojuegos para Switch o PC
 </summary>
-<table>
-<thead>
-<tr class="header">
-<th>Libro o cómic</th>
-<th>Autor/a</th>
-<th>Cuantil</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><del>The Dispossessed</del></td>
-<td><del>Ursula K. Le Guin</del></td>
-<td><del>5</del></td>
-</tr>
-<tr class="even">
-<td><del>Nenúfares Negros</del></td>
-<td><del>Fred Duval</del></td>
-<td><del>5</del></td>
-</tr>
-<tr class="odd">
-<td>Wings of Renewal</td>
-<td>Claudie Arseneault</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>Invincible</td>
-<td>Pascal Jousselin</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>Bullshit Jobs</td>
-<td>David Graeber</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>The Geography of Morals</td>
-<td>Owen J. Flanagan</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>House of Leaves</td>
-<td>Mark Z. Danielewski</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>How To</td>
-<td>Randall Munroe</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Monstress</td>
-<td>Marjorie M. Liu</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>The Refrigerator Monologues</td>
-<td>Catherynne M. Valente</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td><del>Understanding Class</del></td>
-<td><del>Erik Olin Wright</del></td>
-<td><del>3</del></td>
-</tr>
-<tr class="even">
-<td>We Have No Idea</td>
-<td>Jorge Cham</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td><del>Caliban and the Witch</del></td>
-<td><del>Silvia Federici</del></td>
-<td><del>2</del></td>
-</tr>
-<tr class="even">
-<td>Economics: The User’s Guide</td>
-<td>Ha-Joon Chang</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Ghost Work</td>
-<td>Mary L. Gray</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>Time Biases</td>
-<td>Meghan Sullivan</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>Cloud Atlas</td>
-<td>David Mitchell</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>Do Colors Exist</td>
-<td>Seth Cottrell</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>Fábulas #2</td>
-<td>Bill Willingham</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>Les Diners de Gala</td>
-<td>Salvador Dalí</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
+
+| Videojuego                           | Cuantil |
+| ------------------------------------ | ------- |
+| Untitled Goose Game                  | 5       |
+| Yoshi's Crafted World                | 5       |
+| Luigi's Mansion 3                    | 5       |
+| Crusader Kings III                   | 4       |
+| Return of the Obra Dinn              | 4       |
+| Into the breach                      | 4       |
+| Ring Fit Adventure                   | 4       |
+| Cuphead                              | 3       |
+| Diablo III                           | 3       |
+| L.A. Noire                           | 3       |
+| Splatoon 2                           | 3       |
+| Cave Story +                         | 2       |
+| Celeste                              | 2       |
+| Overland                             | 2       |
+| Sonic Mania Plus                     | 2       |
+| Hotline Miami Collection             | 1       |
+| Kentucky Route Zero                  | 1       |
+| Stardew Valley                       | 1       |
+| Superhot                             | 1       |
+
 </details>
 
 <!-- ### Cosas concretas -->
@@ -441,4 +144,4 @@ Videojuegos para Switch
 - [Camiseta de LGSM](https://housmans.com/product/pits-perverts-t-shirt/)
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
 
-_Ultima actualización:_ **Noviembre 2020**
+_Ultima actualización:_ **Diciembre 2020**
