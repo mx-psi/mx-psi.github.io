@@ -11,4 +11,4 @@ Si hace mucho desde la última actualización puedes contactar conmigo para que 
 - [Podcasts](data/podcasts.opml)
 - [Blogs](/data/blogs.opml)
 
-_Última actualización:_ **Mayo 2020**
+_Última actualización:_ **Diciembre 2020**
