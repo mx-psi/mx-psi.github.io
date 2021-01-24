@@ -20,10 +20,11 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | ------------------------------------- | ------- |
 | Cartographers: A Roll Player Tale     | 5       |
 | Machi Koro Legacy                     | 5       |
-| Secret Hitler                         | 5       |
+| ~~Secret Hitler~~                     | 5       |
 | The Chameleon                         | 5       |
 | The Lost Expedition                   | 5       |
 | Wingspan                              | 5       |
+| The Emerald Flame                     | 4       |
 | The Crew: The Quest for Planet Nine   | 4       |
 | Chronicle                             | 4       |
 | Dinosaur Island                       | 4       |
@@ -63,7 +64,7 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Invincible                  | Pascal Jousselin      | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
-| House of Leaves             | Mark Z. Danielewski   | 4       |
+| ~~House of Leaves~~         | ~~Mark Z. Danielewski~~ | 4     |
 | How To                      | Randall Munroe        | 4       |
 | Monstress                   | Marjorie M. Liu       | 3       |
 | The Refrigerator Monologues | Catherynne M. Valente | 3       |
@@ -87,11 +88,11 @@ Videojuegos para Switch o PC
 | ------------------------------------ | ------- |
 | Untitled Goose Game                  | 5       |
 | Yoshi's Crafted World                | 5       |
-| Luigi's Mansion 3                    | 5       |
+| ~~Luigi's Mansion 3~~                | 5       |
 | Crusader Kings III                   | 4       |
 | Return of the Obra Dinn              | 4       |
 | Into the breach                      | 4       |
-| Ring Fit Adventure                   | 4       |
+| ~~Ring Fit Adventure~~               | 4       |
 | Cuphead                              | 3       |
 | Diablo III                           | 3       |
 | L.A. Noire                           | 3       |
@@ -106,14 +107,6 @@ Videojuegos para Switch o PC
 | Superhot                             | 1       |
 
 </details>
-
-<!-- ### Cosas concretas -->
-
-<!-- - [Raspberry Pi Zero W](https://www.kubii.es/raspberry-pi-3-2-b/1851-raspberry-pi-zero-w-kubii-3272496006997.html) -->
-<!-- - [Inky pHAT](https://shop.pimoroni.com/products/inky-phat?variant=12549254217811) o [Inky wHAT](https://shop.pimoroni.com/products/inky-what) -->
-<!-- - [Ergodox EZ](https://ergodox-ez.com/) o Kinesis Freestyle 2 -->
-<!-- - Un escáner portátil -->
-<!-- - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker) -->
 
 ### Vales o suscripciones
 
@@ -143,5 +136,8 @@ Videojuegos para Switch o PC
 
 - [Camiseta de LGSM](https://housmans.com/product/pits-perverts-t-shirt/)
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
+- [Raspberry Pi Pico y manual](https://www.raspberrypi.org/products/micropython-pico/)
+- Un escáner portátil
+- [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 
-_Ultima actualización:_ **Diciembre 2020**
+_Ultima actualización:_ **Enero 2021**
