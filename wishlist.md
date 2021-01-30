@@ -125,12 +125,13 @@ Videojuegos para Switch o PC
 - [Night Vale Shop](https://topatoco.com/collections/wtnv)
 - [minigallerybox](https://www.minigallerybox.com/)
 - [Birds aren't real](https://birdsarentreal.com/)
-  <!-- - [EFF shop](https://supporters.eff.org/shop) -->
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
 - [Mossery](https://www.mossery.co)
 - [Heikala](https://heikala.com/)
 - [OHMYEMI](https://store.ohmyemi.com/products)
+- [Alien in a Jar](https://www.etsy.com/shop/AlienInAJar)
+- [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
 
 ### Cosas específicas
 
