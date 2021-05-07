@@ -20,7 +20,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | ------------------------------------- | ------- |
 | Cartographers: A Roll Player Tale     | 5       |
 | Machi Koro Legacy                     | 5       |
-| ~~Secret Hitler~~                     | 5       |
 | The Chameleon                         | 5       |
 | The Lost Expedition                   | 5       |
 | Wingspan                              | 5       |
@@ -38,7 +37,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Obscurio                              | 3       |
 | PARKS                                 | 3       |
 | Spirit Island                         | 3       |
-| Deep Sea Adventure                    | 2       |
 | Escape from the Aliens in Outer Space | 2       |
 | In a Grove                            | 2       |
 | Nyctophobia                           | 2       |
@@ -64,7 +62,6 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Invincible                  | Pascal Jousselin      | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
-| ~~House of Leaves~~         | ~~Mark Z. Danielewski~~ | 4     |
 | How To                      | Randall Munroe        | 4       |
 | Monstress                   | Marjorie M. Liu       | 3       |
 | The Refrigerator Monologues | Catherynne M. Valente | 3       |
@@ -84,27 +81,23 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego                           | Cuantil |
-| ------------------------------------ | ------- |
-| Untitled Goose Game                  | 5       |
-| Yoshi's Crafted World                | 5       |
-| ~~Luigi's Mansion 3~~                | 5       |
-| Crusader Kings III                   | 4       |
-| Return of the Obra Dinn              | 4       |
-| Into the breach                      | 4       |
-| ~~Ring Fit Adventure~~               | 4       |
-| Cuphead                              | 3       |
-| Diablo III                           | 3       |
-| L.A. Noire                           | 3       |
-| Splatoon 2                           | 3       |
-| Cave Story +                         | 2       |
-| Celeste                              | 2       |
-| Overland                             | 2       |
-| Sonic Mania Plus                     | 2       |
-| Hotline Miami Collection             | 1       |
-| Kentucky Route Zero                  | 1       |
-| Stardew Valley                       | 1       |
-| Superhot                             | 1       |
+| Videojuego               | Cuantil |
+| ------------------------ | ------- |
+| Untitled Goose Game      | 5       |
+| Yoshi's Crafted World    | 5       |
+| Crusader Kings III       | 4       |
+| Into the breach          | 4       |
+| Cuphead                  | 3       |
+| Diablo III               | 3       |
+| L.A. Noire               | 3       |
+| Splatoon 2               | 3       |
+| Cave Story +             | 2       |
+| Celeste                  | 2       |
+| Overland                 | 2       |
+| Sonic Mania Plus         | 2       |
+| Hotline Miami Collection | 1       |
+| Kentucky Route Zero      | 1       |
+| Superhot                 | 1       |
 
 </details>
 
@@ -131,7 +124,10 @@ Videojuegos para Switch o PC
 - [Heikala](https://heikala.com/)
 - [OHMYEMI](https://store.ohmyemi.com/products)
 - [Alien in a Jar](https://www.etsy.com/shop/AlienInAJar)
+- [Afternoon fika](https://www.afternoonfika.com)
+- [Sibylline](https://www.sibyllinemeynet.com/shop.html)
 - [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
+- [Society of curiosities](https://www.societyofcuriosities.com)
 
 ### Cosas específicas
 
@@ -141,4 +137,4 @@ Videojuegos para Switch o PC
 - Un escáner portátil
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 
-_Ultima actualización:_ **Enero 2021**
+_Ultima actualización:_ **7 mayo 2021**
