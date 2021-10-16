@@ -17,11 +17,11 @@ Juegos de mesa
 Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/user/mx_psi).
 
 | Juego de mesa                         | Cuantil |
-| ------------------------------------- | ------- |
+|---------------------------------------|---------|
 | Cartographers: A Roll Player Tale     | 5       |
 | Machi Koro Legacy                     | 5       |
 | The Chameleon                         | 5       |
-| The Lost Expedition                   | 5       |
+| ~~The Lost Expedition~~               | 5       |
 | Wingspan                              | 5       |
 | The Emerald Flame                     | 4       |
 | The Crew: The Quest for Planet Nine   | 4       |
@@ -29,7 +29,7 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
 | Summit: The Board Game                | 4       |
-| Timebomb                              | 4       |
+| ~~Timebomb~~                          | 4       |
 | Black Orchestra                       | 3       |
 | Deception: Murder in Hong Kong        | 3       |
 | Disney Villainous                     | 3       |
@@ -42,7 +42,7 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Nyctophobia                           | 2       |
 | Seize the Bean                        | 2       |
 | Gloomhaven                            | 1       |
-| SET                                   | 1       |
+| ~~SET~~                               | 1       |
 | Sherlock Holmes Consulting Detective  | 1       |
 | Sid Meier's Civilization: A New Dawn  | 1       |
 | Splendor                              | 1       |
@@ -57,9 +57,9 @@ Libros y cómics
 Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user/show/23538284-psi).
 
 | Libro o cómic               | Autor/a               | Cuantil |
-| --------------------------- | --------------------- | ------- |
+|-----------------------------|-----------------------|---------|
 | Wings of Renewal            | Claudie Arseneault    | 5       |
-| Invincible                  | Pascal Jousselin      | 5       |
+| ~~Invincible~~              | Pascal Jousselin      | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
 | How To                      | Randall Munroe        | 4       |
@@ -112,7 +112,7 @@ Videojuegos para Switch o PC
 ### Tiendas
 
 - [Soviet Visuals](https://shop.sovietvisuals.com/)
-- [The Dice Shop](http://www.mathartfun.com/DiceShop.html)
+- [The Dice Shop](http://www.mathartfun.com/DiceShop.html) or [The Dice lab](http://thedicelab.com)
 - [xkcd store](https://store.xkcd.com/)
 - [Oink games](https://oinkgms.com/en/)
 - [Night Vale Shop](https://topatoco.com/collections/wtnv)
@@ -128,6 +128,7 @@ Videojuegos para Switch o PC
 - [Sibylline](https://www.sibyllinemeynet.com/shop.html)
 - [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
 - [Society of curiosities](https://www.societyofcuriosities.com)
+- [Noirin](https://noririn.shop/)
 
 ### Cosas específicas
 
@@ -136,5 +137,6 @@ Videojuegos para Switch o PC
 - [Raspberry Pi Pico y manual](https://www.raspberrypi.org/products/micropython-pico/)
 - Un escáner portátil
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
+- [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **7 mayo 2021**
+_Ultima actualización:_ **16 octubre 2021**
