@@ -130,6 +130,7 @@ Videojuegos para Switch o PC
 - [Society of curiosities](https://www.societyofcuriosities.com)
 - [Noirin](https://noririn.shop/)
 - [Rainy Lune](https://rainylune.com/)
+- [Jeekla](https://linktr.ee/jeekla)
 
 ### Cosas específicas
 
@@ -140,4 +141,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **16 octubre 2021**
+_Ultima actualización:_ **31 octubre 2021**
