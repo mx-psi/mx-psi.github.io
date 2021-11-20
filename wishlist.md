@@ -21,7 +21,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Cartographers: A Roll Player Tale     | 5       |
 | Machi Koro Legacy                     | 5       |
 | The Chameleon                         | 5       |
-| ~~The Lost Expedition~~               | 5       |
 | Wingspan                              | 5       |
 | The Emerald Flame                     | 4       |
 | The Crew: The Quest for Planet Nine   | 4       |
@@ -29,7 +28,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
 | Summit: The Board Game                | 4       |
-| ~~Timebomb~~                          | 4       |
 | Black Orchestra                       | 3       |
 | Deception: Murder in Hong Kong        | 3       |
 | Disney Villainous                     | 3       |
@@ -42,7 +40,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Nyctophobia                           | 2       |
 | Seize the Bean                        | 2       |
 | Gloomhaven                            | 1       |
-| ~~SET~~                               | 1       |
 | Sherlock Holmes Consulting Detective  | 1       |
 | Sid Meier's Civilization: A New Dawn  | 1       |
 | Splendor                              | 1       |
@@ -59,7 +56,6 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Libro o cómic               | Autor/a               | Cuantil |
 |-----------------------------|-----------------------|---------|
 | Wings of Renewal            | Claudie Arseneault    | 5       |
-| ~~Invincible~~              | Pascal Jousselin      | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
 | How To                      | Randall Munroe        | 4       |
@@ -84,6 +80,7 @@ Videojuegos para Switch o PC
 | Videojuego               | Cuantil |
 | ------------------------ | ------- |
 | Untitled Goose Game      | 5       |
+| Unpacking                | 5       |
 | Yoshi's Crafted World    | 5       |
 | Crusader Kings III       | 4       |
 | Into the breach          | 4       |
@@ -141,4 +138,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **31 octubre 2021**
+_Ultima actualización:_ **20 noviembre 2021**
