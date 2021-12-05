@@ -55,6 +55,7 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 
 | Libro o cómic               | Autor/a               | Cuantil |
 |-----------------------------|-----------------------|---------|
+| Wilder Mann                 | Charles Fréger        | 5       |
 | Wings of Renewal            | Claudie Arseneault    | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
@@ -138,4 +139,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **20 noviembre 2021**
+_Ultima actualización:_ **5 diciembre 2021**
