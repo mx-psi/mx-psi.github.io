@@ -89,6 +89,7 @@ Videojuegos para Switch o PC
 | Diablo III               | 3       |
 | L.A. Noire               | 3       |
 | Splatoon 2               | 3       |
+| Townscaper               | 3       |
 | Cave Story +             | 2       |
 | Celeste                  | 2       |
 | Overland                 | 2       |
@@ -139,4 +140,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **5 diciembre 2021**
+_Ultima actualización:_ **25 diciembre 2021**
