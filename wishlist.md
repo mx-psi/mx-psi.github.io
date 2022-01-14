@@ -80,8 +80,6 @@ Videojuegos para Switch o PC
 
 | Videojuego               | Cuantil |
 | ------------------------ | ------- |
-| Untitled Goose Game      | 5       |
-| Unpacking                | 5       |
 | Yoshi's Crafted World    | 5       |
 | Crusader Kings III       | 4       |
 | Into the breach          | 4       |
@@ -140,4 +138,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **25 diciembre 2021**
+_Ultima actualización:_ **14 enero 2022**
