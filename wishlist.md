@@ -78,23 +78,24 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego               | Cuantil |
-| ------------------------ | ------- |
-| Yoshi's Crafted World    | 5       |
-| Crusader Kings III       | 4       |
-| Into the breach          | 4       |
-| Cuphead                  | 3       |
-| Diablo III               | 3       |
-| L.A. Noire               | 3       |
-| Splatoon 2               | 3       |
-| Townscaper               | 3       |
-| Cave Story +             | 2       |
-| Celeste                  | 2       |
-| Overland                 | 2       |
-| Sonic Mania Plus         | 2       |
-| Hotline Miami Collection | 1       |
-| Kentucky Route Zero      | 1       |
-| Superhot                 | 1       |
+| Videojuego                   | Cuantil     |
+| ---------------------------- | ----------- |
+| Kirby and the Forgotten Land | 5           |
+| Yoshi's Crafted World        | 5           |
+| Crusader Kings III           | 4           |
+| ~~Into the breach~~          | 4           |
+| Cuphead                      | 3           |
+| Diablo III                   | 3           |
+| L.A. Noire                   | 3           |
+| Splatoon 2                   | 3           |
+| ~~Townscaper~~               | 3           |
+| Cave Story +                 | 2           |
+| Celeste                      | 2           |
+| Overland                     | 2           |
+| Sonic Mania Plus             | 2           |
+| Hotline Miami Collection     | 1           |
+| Kentucky Route Zero          | 1           |
+| Superhot                     | 1           |
 
 </details>
 
