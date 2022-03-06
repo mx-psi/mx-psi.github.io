@@ -139,4 +139,4 @@ Videojuegos para Switch o PC
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 
-_Ultima actualización:_ **14 enero 2022**
+_Ultima actualización:_ **6 marzo 2022**
