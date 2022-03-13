@@ -89,6 +89,7 @@ Videojuegos para Switch o PC
 | L.A. Noire                   | 3           |
 | Splatoon 2                   | 3           |
 | ~~Townscaper~~               | 3           |
+| Lovers in a Dangerous Spacetime | 3        |
 | Cave Story +                 | 2           |
 | Celeste                      | 2           |
 | Overland                     | 2           |
