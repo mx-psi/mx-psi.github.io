@@ -130,6 +130,7 @@ Videojuegos para Switch o PC
 - [Sibylline](https://www.sibyllinemeynet.com/shop.html)
 - [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
 - [Society of curiosities](https://www.societyofcuriosities.com)
+- [Curious Correspondence](https://www.curiouscorrespondence.com/)
 - [Noirin](https://noririn.shop/)
 - [Rainy Lune](https://rainylune.com/)
 - [Jeekla](https://linktr.ee/jeekla)
@@ -144,4 +145,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **30 abril 2022**
+_Ultima actualización:_ **1 mayo 2022**
