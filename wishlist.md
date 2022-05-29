@@ -81,8 +81,7 @@ Videojuegos para Switch o PC
 | Videojuego                          | Cuantil |
 |-------------------------------------|---------|
 | Kirby and the Forgotten Land        | 5       |
-| Crusader Kings III                  | 4       |
-| ~~Into the breach~~                 | 4       |
+| The Great Ace Attorney              | 5       |
 | *Mario Rabbids Sparks of Hope*      | 4       |
 | *Nintendo Switch Sports*            | 3       |
 | The Stanley Parable: Ultra Deluxe   | 3       |
@@ -90,11 +89,8 @@ Videojuegos para Switch o PC
 | Diablo III                          | 3       |
 | L.A. Noire                          | 3       |
 | Splatoon 2                          | 3       |
-| ~~Townscaper~~                      | 3       |
 | Yoshi's Crafted World               | 3       |
-| ~~Lovers in a Dangerous Spacetime~~ | 3       |
 | Cave Story +                        | 2       |
-| Celeste                             | 2       |
 | Overland                            | 2       |
 | Sonic Mania Plus                    | 2       |
 | Hotline Miami Collection            | 1       |
@@ -145,4 +141,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **1 mayo 2022**
+_Ultima actualización:_ **29 mayo 2022**
