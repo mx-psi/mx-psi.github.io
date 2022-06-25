@@ -23,7 +23,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | The Chameleon                         | 5       |
 | Wingspan                              | 5       |
 | The Emerald Flame                     | 4       |
-| The Crew: The Quest for Planet Nine   | 4       |
 | Chronicle                             | 4       |
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
@@ -78,24 +77,24 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego                          | Cuantil |
-|-------------------------------------|---------|
-| Kirby and the Forgotten Land        | 5       |
-| The Great Ace Attorney              | 5       |
-| *Mario Rabbids Sparks of Hope*      | 4       |
-| *Nintendo Switch Sports*            | 3       |
-| The Stanley Parable: Ultra Deluxe   | 3       |
-| Cuphead                             | 3       |
-| Diablo III                          | 3       |
-| L.A. Noire                          | 3       |
-| Splatoon 2                          | 3       |
-| Yoshi's Crafted World               | 3       |
-| Cave Story +                        | 2       |
-| Overland                            | 2       |
-| Sonic Mania Plus                    | 2       |
-| Hotline Miami Collection            | 1       |
-| Kentucky Route Zero                 | 1       |
-| Superhot                            | 1       |
+| Videojuego                        | Cuantil |
+|-----------------------------------|---------|
+| Kirby and the Forgotten Land      | 5       |
+| The Great Ace Attorney            | 5       |
+| *Mario Rabbids Sparks of Hope*    | 4       |
+| Nintendo Switch Sports            | 3       |
+| The Stanley Parable: Ultra Deluxe | 3       |
+| Cuphead                           | 3       |
+| Diablo III                        | 3       |
+| L.A. Noire                        | 3       |
+| Splatoon 2                        | 3       |
+| Yoshi's Crafted World             | 3       |
+| Cave Story +                      | 2       |
+| Overland                          | 2       |
+| Sonic Mania Plus                  | 2       |
+| Hotline Miami Collection          | 1       |
+| Kentucky Route Zero               | 1       |
+| Superhot                          | 1       |
 
 </details>
 
@@ -118,22 +117,26 @@ Videojuegos para Switch o PC
 - [Birds aren't real](https://birdsarentreal.com/)
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
+- [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
+- [Society of curiosities](https://www.societyofcuriosities.com)
+- [Curious Correspondence](https://www.curiouscorrespondence.com/)
+
+#### Artistas
+
 - [Mossery](https://www.mossery.co)
 - [Heikala](https://heikala.com/)
 - [OHMYEMI](https://store.ohmyemi.com/products)
 - [Alien in a Jar](https://www.etsy.com/shop/AlienInAJar)
 - [Afternoon fika](https://www.afternoonfika.com)
 - [Sibylline](https://www.sibyllinemeynet.com/shop.html)
-- [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
-- [Society of curiosities](https://www.societyofcuriosities.com)
-- [Curious Correspondence](https://www.curiouscorrespondence.com/)
 - [Noirin](https://noririn.shop/)
 - [Rainy Lune](https://rainylune.com/)
 - [Jeekla](https://linktr.ee/jeekla)
+- [pikaole](http://pikaole.com/?ckattempt=1)
+- [cocoglez](https://www.cocoglez.com/store)
 
 ### Cosas específicas
 
-- [Camiseta de LGSM](https://housmans.com/product/pits-perverts-t-shirt/)
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
 - [Raspberry Pi Pico y manual](https://www.raspberrypi.org/products/micropython-pico/)
 - Un escáner portátil
@@ -141,4 +144,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **29 mayo 2022**
+_Ultima actualización:_ **25 junio 2022**
