@@ -108,18 +108,26 @@ Videojuegos para Switch o PC
 
 ### Tiendas
 
-- [Soviet Visuals](https://shop.sovietvisuals.com/)
-- [The Dice Shop](http://www.mathartfun.com/DiceShop.html) or [The Dice lab](http://thedicelab.com)
 - [xkcd store](https://store.xkcd.com/)
-- [Oink games](https://oinkgms.com/en/)
 - [Night Vale Shop](https://topatoco.com/collections/wtnv)
 - [minigallerybox](https://www.minigallerybox.com/)
+- [Kurzgesagt](https://shop-eu.kurzgesagt.org)
+
+#### Ropa y accesorios
+
+- [Soviet Visuals](https://shop.sovietvisuals.com/)
 - [Birds aren't real](https://birdsarentreal.com/)
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
-- [Kurzgesagt](https://shop-eu.kurzgesagt.org)
+- [shirtz.cool](https://shirtz.cool/)
+- [Morning Witch](https://shop.morningwitch.com/collections/shirts)
+
+#### Juegos/puzzles
+
 - [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
 - [Society of curiosities](https://www.societyofcuriosities.com)
 - [Curious Correspondence](https://www.curiouscorrespondence.com/)
+- [The Dice Shop](http://www.mathartfun.com/DiceShop.html) or [The Dice lab](http://thedicelab.com)
+- [Oink games](https://oinkgms.com/en/)
 
 #### Artistas
 
@@ -144,4 +152,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **25 junio 2022**
+_Ultima actualización:_ **8 julio 2022**
