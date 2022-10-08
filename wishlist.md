@@ -55,6 +55,7 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Libro o cómic               | Autor/a               | Cuantil |
 |-----------------------------|-----------------------|---------|
 | Wilder Mann                 | Charles Fréger        | 5       |
+| Bureaucratics               | Jan Banning           | 5       |
 | Wings of Renewal            | Claudie Arseneault    | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
@@ -79,22 +80,23 @@ Videojuegos para Switch o PC
 
 | Videojuego                        | Cuantil |
 |-----------------------------------|---------|
-| Kirby and the Forgotten Land      | 5       |
 | The Great Ace Attorney            | 5       |
 | *Mario Rabbids Sparks of Hope*    | 4       |
 | Nintendo Switch Sports            | 3       |
 | The Stanley Parable: Ultra Deluxe | 3       |
-| Cuphead                           | 3       |
+| Persona 5 Royal                   | 3       |
 | Diablo III                        | 3       |
 | L.A. Noire                        | 3       |
 | Splatoon 2                        | 3       |
-| Yoshi's Crafted World             | 3       |
+| *Pikmin 4*                        | 3       |
 | Cave Story +                      | 2       |
+| RAINCODE                          | 2       |
 | Overland                          | 2       |
-| Sonic Mania Plus                  | 2       |
+| Bayonetta 3                       | 2       |
 | Hotline Miami Collection          | 1       |
 | Kentucky Route Zero               | 1       |
 | Superhot                          | 1       |
+| Tunic                             | 1       |
 
 </details>
 
@@ -128,6 +130,8 @@ Videojuegos para Switch o PC
 - [Curious Correspondence](https://www.curiouscorrespondence.com/)
 - [The Dice Shop](http://www.mathartfun.com/DiceShop.html) or [The Dice lab](http://thedicelab.com)
 - [Oink games](https://oinkgms.com/en/)
+- [Collecta](https://www.collecta.biz/es/)
+- [Yssikcreations](https://www.etsy.com/es/shop/Yssikcreaciones)
 
 #### Artistas
 
@@ -143,6 +147,13 @@ Videojuegos para Switch o PC
 - [pikaole](http://pikaole.com/?ckattempt=1)
 - [cocoglez](https://www.cocoglez.com/store)
 
+- [ClayWithA](https://www.claywitha.com/)
+- [Fox Treats](https://www.foxtreats.com/)
+- [Henry Baker Artwork](https://henrybakerartwork.bigcartel.com/products)
+- [Dolaana Davaa](https://davaadolik.wixsite.com/dolaanadavaa/commissions)
+- [Canopic Studio](https://www.etsy.com/shop/canopicstudio)
+- [AiryBeasts](https://www.etsy.com/shop/BrookeDuckart)
+
 ### Cosas específicas
 
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
@@ -152,4 +163,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **8 julio 2022**
+_Ultima actualización:_ **8 octubre 2022**
