@@ -23,7 +23,6 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | The Chameleon                         | 5       |
 | Wingspan                              | 5       |
 | The Emerald Flame                     | 4       |
-| Chronicle                             | 4       |
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
 | Summit: The Board Game                | 4       |
@@ -57,6 +56,7 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 | Wilder Mann                 | Charles Fréger        | 5       |
 | Bureaucratics               | Jan Banning           | 5       |
 | Wings of Renewal            | Claudie Arseneault    | 5       |
+| What If 2                   | Randall Munroe        | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
 | How To                      | Randall Munroe        | 4       |
@@ -81,8 +81,7 @@ Videojuegos para Switch o PC
 | Videojuego                        | Cuantil |
 |-----------------------------------|---------|
 | The Great Ace Attorney            | 5       |
-| *Mario Rabbids Sparks of Hope*    | 4       |
-| Nintendo Switch Sports            | 3       |
+| Patrick's Parabox                 | 5       |
 | The Stanley Parable: Ultra Deluxe | 3       |
 | Persona 5 Royal                   | 3       |
 | Diablo III                        | 3       |
@@ -163,4 +162,4 @@ Videojuegos para Switch o PC
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **8 octubre 2022**
+_Ultima actualización:_ **30 diciembre 2022**
