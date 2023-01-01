@@ -16,12 +16,10 @@ Juegos de mesa
 </summary>
 Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/user/mx_psi).
 
-| Juego de mesa                         | Cuantil |
+| Juego de mesa                         | Rank |
 |---------------------------------------|---------|
-| Cartographers: A Roll Player Tale     | 5       |
 | Machi Koro Legacy                     | 5       |
 | The Chameleon                         | 5       |
-| Wingspan                              | 5       |
 | The Emerald Flame                     | 4       |
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
@@ -33,11 +31,12 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Obscurio                              | 3       |
 | PARKS                                 | 3       |
 | Spirit Island                         | 3       |
+| Wingspan                              | 3       |
 | Escape from the Aliens in Outer Space | 2       |
 | In a Grove                            | 2       |
 | Nyctophobia                           | 2       |
+| Cartographers: A Roll Player Tale     | 2       |
 | Seize the Bean                        | 2       |
-| Gloomhaven                            | 1       |
 | Sherlock Holmes Consulting Detective  | 1       |
 | Sid Meier's Civilization: A New Dawn  | 1       |
 | Splendor                              | 1       |
@@ -51,7 +50,7 @@ Libros y cómics
 </summary>
 Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user/show/23538284-psi).
 
-| Libro o cómic               | Autor/a               | Cuantil |
+| Libro o cómic               | Autor/a               | Rank    |
 |-----------------------------|-----------------------|---------|
 | Wilder Mann                 | Charles Fréger        | 5       |
 | Bureaucratics               | Jan Banning           | 5       |
@@ -78,16 +77,16 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego                        | Cuantil |
+| Videojuego                        | Rank |
 |-----------------------------------|---------|
 | The Great Ace Attorney            | 5       |
-| Patrick's Parabox                 | 5       |
 | The Stanley Parable: Ultra Deluxe | 3       |
 | Persona 5 Royal                   | 3       |
 | Diablo III                        | 3       |
 | L.A. Noire                        | 3       |
 | Splatoon 2                        | 3       |
 | *Pikmin 4*                        | 3       |
+| Ghost Trick                       | 2       |
 | Cave Story +                      | 2       |
 | RAINCODE                          | 2       |
 | Overland                          | 2       |
@@ -110,13 +109,12 @@ Videojuegos para Switch o PC
 ### Tiendas
 
 - [xkcd store](https://store.xkcd.com/)
-- [Night Vale Shop](https://topatoco.com/collections/wtnv)
 - [minigallerybox](https://www.minigallerybox.com/)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
 
 #### Ropa y accesorios
 
-- [Soviet Visuals](https://shop.sovietvisuals.com/)
+- [Dogecore](https://www.dogecore.com/)
 - [Birds aren't real](https://birdsarentreal.com/)
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
 - [shirtz.cool](https://shirtz.cool/)
@@ -124,6 +122,8 @@ Videojuegos para Switch o PC
 
 #### Juegos/puzzles
 
+- [Crux puzzles](https://cruxpuzzles.co.uk/)
+- [CMY Cubes](https://eu.cmycubes.com/)
 - [Cryptogram Puzzle Post](https://cryptogrampuzzlepost.bigcartel.com/category/annual-subscriptions)
 - [Society of curiosities](https://www.societyofcuriosities.com)
 - [Curious Correspondence](https://www.curiouscorrespondence.com/)
@@ -160,6 +160,8 @@ Videojuegos para Switch o PC
 - Un escáner portátil
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
+- [Un terrario](https://www.begoniasymas.com/terrarios/)
+- Adaptador de USB tipo C a Ethernet
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **30 diciembre 2022**
+_Ultima actualización:_ **13 mayo 2023**
