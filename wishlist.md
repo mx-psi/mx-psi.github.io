@@ -18,13 +18,18 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 
 | Juego de mesa                         | Rank |
 |---------------------------------------|---------|
-| Machi Koro Legacy                     | 5       |
-| The Chameleon                         | 5       |
+| The Night Cage                        | 5       |
+| Mindbug: First Contact                | 5       |
 | The Emerald Flame                     | 4       |
 | Dinosaur Island                       | 4       |
 | Ex Libris                             | 4       |
 | Summit: The Board Game                | 4       |
+| Daybreak                              | 4       |
+| Escape the Dark Castle                | 3       |
+| Smug Owls                             | 3       |
 | Black Orchestra                       | 3       |
+| Cat in the box                        | 3       |
+| Next Station: London                  | 3       |
 | Deception: Murder in Hong Kong        | 3       |
 | Disney Villainous                     | 3       |
 | Gloomhaven: Jaws of the Lion          | 3       |
@@ -77,15 +82,14 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego                        | Rank |
+| Videojuego                        | Rank    |
 |-----------------------------------|---------|
-| The Great Ace Attorney            | 5       |
+| Super Crazy Rhythm Castle         | 4       |
+| WarioWare: Move It!               | 4       |
 | The Stanley Parable: Ultra Deluxe | 3       |
-| Persona 5 Royal                   | 3       |
-| Diablo III                        | 3       |
 | L.A. Noire                        | 3       |
-| Splatoon 2                        | 3       |
-| *Pikmin 4*                        | 3       |
+| Pikmin 4                          | 3       |
+| Princess Peach: Showtime!         | 3       |
 | Ghost Trick                       | 2       |
 | Cave Story +                      | 2       |
 | RAINCODE                          | 2       |
@@ -108,7 +112,6 @@ Videojuegos para Switch o PC
 
 ### Tiendas
 
-- [xkcd store](https://store.xkcd.com/)
 - [minigallerybox](https://www.minigallerybox.com/)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
 
@@ -119,6 +122,7 @@ Videojuegos para Switch o PC
 - [Stratonaut Shop](https://stratonaut.shop/pages/about-us)
 - [shirtz.cool](https://shirtz.cool/)
 - [Morning Witch](https://shop.morningwitch.com/collections/shirts)
+- [Stickup Monsters](https://stickupmonsters.bigcartel.com)
 
 #### Juegos/puzzles
 
@@ -139,29 +143,27 @@ Videojuegos para Switch o PC
 - [OHMYEMI](https://store.ohmyemi.com/products)
 - [Alien in a Jar](https://www.etsy.com/shop/AlienInAJar)
 - [Afternoon fika](https://www.afternoonfika.com)
-- [Sibylline](https://www.sibyllinemeynet.com/shop.html)
 - [Noirin](https://noririn.shop/)
 - [Rainy Lune](https://rainylune.com/)
 - [Jeekla](https://linktr.ee/jeekla)
 - [pikaole](http://pikaole.com/?ckattempt=1)
 - [cocoglez](https://www.cocoglez.com/store)
 
-- [ClayWithA](https://www.claywitha.com/)
+- [ClayWithA](https://shopclaywitha.com)
 - [Fox Treats](https://www.foxtreats.com/)
 - [Henry Baker Artwork](https://henrybakerartwork.bigcartel.com/products)
 - [Dolaana Davaa](https://davaadolik.wixsite.com/dolaanadavaa/commissions)
 - [Canopic Studio](https://www.etsy.com/shop/canopicstudio)
 - [AiryBeasts](https://www.etsy.com/shop/BrookeDuckart)
+- [CuriositesRenversades](https://www.etsy.com/shop/CuriositesRenversade)
 
 ### Cosas específicas
 
 - [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
-- [Raspberry Pi Pico y manual](https://www.raspberrypi.org/products/micropython-pico/)
 - Un escáner portátil
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
-- [Hollow dice](https://dndwow.com/hollow-dice-HZAR)
 - [Un terrario](https://www.begoniasymas.com/terrarios/)
 - Adaptador de USB tipo C a Ethernet
 - Mat de Dance Dance Revolution
 
-_Ultima actualización:_ **13 mayo 2023**
+_Ultima actualización:_ **23 diciembre 2023**
