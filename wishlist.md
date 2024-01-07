@@ -16,8 +16,9 @@ Juegos de mesa
 </summary>
 Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/user/mx_psi).
 
-| Juego de mesa                         | Rank |
+| Juego de mesa                         | Rank    |
 |---------------------------------------|---------|
+| Earthborne Rangers                    | 5       |
 | The Night Cage                        | 5       |
 | Mindbug: First Contact                | 5       |
 | The Emerald Flame                     | 4       |
@@ -28,11 +29,8 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Escape the Dark Castle                | 3       |
 | Smug Owls                             | 3       |
 | Black Orchestra                       | 3       |
-| Cat in the box                        | 3       |
 | Next Station: London                  | 3       |
 | Deception: Murder in Hong Kong        | 3       |
-| Disney Villainous                     | 3       |
-| Gloomhaven: Jaws of the Lion          | 3       |
 | Obscurio                              | 3       |
 | PARKS                                 | 3       |
 | Spirit Island                         | 3       |
@@ -84,9 +82,9 @@ Videojuegos para Switch o PC
 
 | Videojuego                        | Rank    |
 |-----------------------------------|---------|
+| Genesis Noir                      | 5       |
 | Super Crazy Rhythm Castle         | 4       |
 | WarioWare: Move It!               | 4       |
-| The Stanley Parable: Ultra Deluxe | 3       |
 | L.A. Noire                        | 3       |
 | Pikmin 4                          | 3       |
 | Princess Peach: Showtime!         | 3       |
@@ -98,7 +96,6 @@ Videojuegos para Switch o PC
 | Hotline Miami Collection          | 1       |
 | Kentucky Route Zero               | 1       |
 | Superhot                          | 1       |
-| Tunic                             | 1       |
 
 </details>
 
@@ -113,6 +110,7 @@ Videojuegos para Switch o PC
 ### Tiendas
 
 - [minigallerybox](https://www.minigallerybox.com/)
+- [bungu](https://bungu.store)
 - [Kurzgesagt](https://shop-eu.kurzgesagt.org)
 
 #### Ropa y accesorios
@@ -123,6 +121,7 @@ Videojuegos para Switch o PC
 - [shirtz.cool](https://shirtz.cool/)
 - [Morning Witch](https://shop.morningwitch.com/collections/shirts)
 - [Stickup Monsters](https://stickupmonsters.bigcartel.com)
+- [Flower Mountain](https://www.flowermountain.com/)
 
 #### Juegos/puzzles
 
@@ -135,6 +134,8 @@ Videojuegos para Switch o PC
 - [Oink games](https://oinkgms.com/en/)
 - [Collecta](https://www.collecta.biz/es/)
 - [Yssikcreations](https://www.etsy.com/es/shop/Yssikcreaciones)
+- [Lego kits](https://jkbrickworks.com/kits/)
+- [ROKR](https://rokr.robotime.com/)
 
 #### Artistas
 
@@ -148,7 +149,6 @@ Videojuegos para Switch o PC
 - [Jeekla](https://linktr.ee/jeekla)
 - [pikaole](http://pikaole.com/?ckattempt=1)
 - [cocoglez](https://www.cocoglez.com/store)
-
 - [ClayWithA](https://shopclaywitha.com)
 - [Fox Treats](https://www.foxtreats.com/)
 - [Henry Baker Artwork](https://henrybakerartwork.bigcartel.com/products)
@@ -156,14 +156,23 @@ Videojuegos para Switch o PC
 - [Canopic Studio](https://www.etsy.com/shop/canopicstudio)
 - [AiryBeasts](https://www.etsy.com/shop/BrookeDuckart)
 - [CuriositesRenversades](https://www.etsy.com/shop/CuriositesRenversade)
+- [Helvetica Blanc](https://www.inprnt.com/gallery/helveticablanc/)
+- [Le Vilain](https://levilain.fr/boutique/?orderby=date)
+- [RuggyBagyShopie](https://www.etsy.com/shop/RuggyBagyShopie)
 
 ### Cosas específicas
 
-- [Interlocking Python Keychains](https://www.etsy.com/listing/610156697/cute-interlocking-ball-python-keychains)
 - Un escáner portátil
+- Un micrófono para videoconferencias
+- Gafas de sol
+- Una olla exprés
+- Unas botas
+- Una mesa para juegos de mesa como las de [Wyrmwood Gaming](https://linktr.ee/wyrmwoodgaming)
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Un terrario](https://www.begoniasymas.com/terrarios/)
 - Adaptador de USB tipo C a Ethernet
 - Mat de Dance Dance Revolution
+- Una fiesta *murder mistery*
+- [Terraforming Mars Deluxe](https://malditogames.com/tienda/eurogames/300-terraforming-mars-caja-de-componentes-deluxe-promo-8436578813636.html)
 
-_Ultima actualización:_ **23 diciembre 2023**
+_Ultima actualización:_ **12 de marzo de 2024**
