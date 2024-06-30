@@ -19,11 +19,8 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Juego de mesa                         | Rank    |
 |---------------------------------------|---------|
 | Earthborne Rangers                    | 5       |
-| The Night Cage                        | 5       |
-| Mindbug: First Contact                | 5       |
 | The Emerald Flame                     | 4       |
 | Dinosaur Island                       | 4       |
-| Ex Libris                             | 4       |
 | Summit: The Board Game                | 4       |
 | Daybreak                              | 4       |
 | Escape the Dark Castle                | 3       |
@@ -31,18 +28,14 @@ Puedes ver más cosas en [mi perfil de BoardGameGeek](https://boardgamegeek.com/
 | Black Orchestra                       | 3       |
 | Next Station: London                  | 3       |
 | Deception: Murder in Hong Kong        | 3       |
-| Obscurio                              | 3       |
 | PARKS                                 | 3       |
-| Spirit Island                         | 3       |
-| Wingspan                              | 3       |
+| Wavelength                            | 2       |
 | Escape from the Aliens in Outer Space | 2       |
 | In a Grove                            | 2       |
 | Nyctophobia                           | 2       |
 | Cartographers: A Roll Player Tale     | 2       |
 | Seize the Bean                        | 2       |
 | Sherlock Holmes Consulting Detective  | 1       |
-| Sid Meier's Civilization: A New Dawn  | 1       |
-| Splendor                              | 1       |
 | The Resistance: Avalon                | 1       |
 
 </details>
@@ -57,17 +50,18 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 |-----------------------------|-----------------------|---------|
 | Wilder Mann                 | Charles Fréger        | 5       |
 | Bureaucratics               | Jan Banning           | 5       |
-| Wings of Renewal            | Claudie Arseneault    | 5       |
+| It's a gas!                 | Sascha Friesike       | 5       |
 | What If 2                   | Randall Munroe        | 5       |
+| Wings of Renewal            | Claudie Arseneault    | 5       |
 | Bullshit Jobs               | David Graeber         | 4       |
 | The Geography of Morals     | Owen J. Flanagan      | 4       |
 | How To                      | Randall Munroe        | 4       |
 | Monstress                   | Marjorie M. Liu       | 3       |
 | The Refrigerator Monologues | Catherynne M. Valente | 3       |
 | We Have No Idea             | Jorge Cham            | 3       |
+| 10 chaises                  | Dominique Ehrhard     | 3       |
 | Economics: The User's Guide | Ha-Joon Chang         | 2       |
 | Ghost Work                  | Mary L. Gray          | 2       |
-| Time Biases                 | Meghan Sullivan       | 2       |
 | Cloud Atlas                 | David Mitchell        | 1       |
 | Do Colors Exist             | Seth Cottrell         | 1       |
 | Fábulas #2                  | Bill Willingham       | 1       |
@@ -80,22 +74,22 @@ Puedes ver más cosas en [mi perfil de Goodreads](https://www.goodreads.com/user
 Videojuegos para Switch o PC
 </summary>
 
-| Videojuego                        | Rank    |
-|-----------------------------------|---------|
-| Genesis Noir                      | 5       |
-| Super Crazy Rhythm Castle         | 4       |
-| WarioWare: Move It!               | 4       |
-| L.A. Noire                        | 3       |
-| Pikmin 4                          | 3       |
-| Princess Peach: Showtime!         | 3       |
-| Ghost Trick                       | 2       |
-| Cave Story +                      | 2       |
-| RAINCODE                          | 2       |
-| Overland                          | 2       |
-| Bayonetta 3                       | 2       |
-| Hotline Miami Collection          | 1       |
-| Kentucky Route Zero               | 1       |
-| Superhot                          | 1       |
+| Videojuego                            | Rank |
+|---------------------------------------|------|
+| Genesis Noir                          | 5    |
+| Super Crazy Rhythm Castle             | 4    |
+| WarioWare: Move It!                   | 4    |
+| L.A. Noire                            | 3    |
+| Pikmin 4                              | 3    |
+| The Legend of Zelda: Echoes of Wisdom | 3    |
+| Ghost Trick                           | 2    |
+| Cave Story +                          | 2    |
+| RAINCODE                              | 2    |
+| Overland                              | 2    |
+| Bayonetta 3                           | 2    |
+| Hotline Miami Collection              | 1    |
+| Kentucky Route Zero                   | 1    |
+| Superhot                              | 1    |
 
 </details>
 
@@ -122,6 +116,7 @@ Videojuegos para Switch o PC
 - [Morning Witch](https://shop.morningwitch.com/collections/shirts)
 - [Stickup Monsters](https://stickupmonsters.bigcartel.com)
 - [Flower Mountain](https://www.flowermountain.com/)
+- [Vesperto](https://vesperto.shop/)
 
 #### Juegos/puzzles
 
@@ -159,13 +154,20 @@ Videojuegos para Switch o PC
 - [Helvetica Blanc](https://www.inprnt.com/gallery/helveticablanc/)
 - [Le Vilain](https://levilain.fr/boutique/?orderby=date)
 - [RuggyBagyShopie](https://www.etsy.com/shop/RuggyBagyShopie)
+- [Cat Coven](https://www.catcoven.com/)
+- [Gwendolyn Wood](https://www.gwendolynwood.com/)
+- [Mothsprout](https://www.etsy.com/shop/Mothsprout)
+- [Corroded Paradox](https://cparadox.bigcartel.com/)
+- [Mistery Flesh Pit National Park](https://shop.mysteryfleshpitnationalpark.com/)
+- [DawSpecialFX](https://www.etsy.com/us-es/shop/DawSpecialFX)
+- [BlueJayandClover3D](https://www.etsy.com/us-es/shop/BlueJayandClover3)
 
 ### Cosas específicas
 
+- [Flipper Zero](https://flipperzero.one/)
 - Un escáner portátil
 - Un micrófono para videoconferencias
 - Gafas de sol
-- Una olla exprés
 - Unas botas
 - Una mesa para juegos de mesa como las de [Wyrmwood Gaming](https://linktr.ee/wyrmwoodgaming)
 - [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
@@ -173,6 +175,12 @@ Videojuegos para Switch o PC
 - Adaptador de USB tipo C a Ethernet
 - Mat de Dance Dance Revolution
 - Una fiesta *murder mistery*
+- Estantería de trinkets (aka wooden display)
 - [Terraforming Mars Deluxe](https://malditogames.com/tienda/eurogames/300-terraforming-mars-caja-de-componentes-deluxe-promo-8436578813636.html)
+- [Aranet 4](https://aranet.com/products/aranet4/)
+- Dyson Purifier Big & Quiet Formaldehyde
+- Una roomba con fregado rotatorio y depósito de agua y polvo
+- [Daylight Computer](https://daylightcomputer.com/)
+- Entradas para [Spirited Away UK](https://www.spiritedawayuk.com/)
 
-_Ultima actualización:_ **12 de marzo de 2024**
+_Ultima actualización:_ **14 de septiembre de 2024**
