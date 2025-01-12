@@ -161,26 +161,43 @@ Videojuegos para Switch o PC
 - [Mistery Flesh Pit National Park](https://shop.mysteryfleshpitnationalpark.com/)
 - [DawSpecialFX](https://www.etsy.com/us-es/shop/DawSpecialFX)
 - [BlueJayandClover3D](https://www.etsy.com/us-es/shop/BlueJayandClover3)
+- [Hannah Comstock](https://www.hannahcomstock.com/)
 
-### Cosas específicas
+### Cosas de 30€ o menos
+
+- Adaptador de USB tipo C a Ethernet
+- Un [ChargeKey](https://nomadgoods.com/eu/products/chargekey-usb-c)
+- [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
+- Un anillo spinner (por ejemplo un d20)
+- Un termómetro de casa
+- Alfombrilla de baño de piedra
+
+### Cosas más caras
 
 - [Flipper Zero](https://flipperzero.one/)
 - Un escáner portátil
 - Un micrófono para videoconferencias
+- Un plumero de aire comprimido para limpiar teclados
+- Una impresora de pegatinas Phomemo
+- Una xTool o una Bambu H2D
+- Una olla a presión (por ejemplo [esta](https://www.elcorteingles.es/hogar/A28369626-olla-a-presion-singles-kuhn-rikon))
 - Gafas de sol
 - Unas botas
-- Una mesa para juegos de mesa como las de [Wyrmwood Gaming](https://linktr.ee/wyrmwoodgaming)
-- [USB data blocker](https://portablepowersupplies.co.uk/product/usb-data-blocker)
 - [Un terrario](https://www.begoniasymas.com/terrarios/)
-- Adaptador de USB tipo C a Ethernet
 - Mat de Dance Dance Revolution
 - Una fiesta *murder mistery*
 - Estantería de trinkets (aka wooden display)
 - [Terraforming Mars Deluxe](https://malditogames.com/tienda/eurogames/300-terraforming-mars-caja-de-componentes-deluxe-promo-8436578813636.html)
 - [Aranet 4](https://aranet.com/products/aranet4/)
+- Entradas para [Spirited Away UK](https://www.spiritedawayuk.com/)
+- [Daylight Computer](https://daylightcomputer.com/)
+- [Puzzle fractal](https://cruxpuzzles.co.uk/products/fractal-tray-puzzles)
+
+### Cosas absurdamente caras
+
+- Cubertería de diseño ([ejemplo](https://www.beloinox.pt/en/vertice-belo-inox-portuguese-cutlery-set))
 - Dyson Purifier Big & Quiet Formaldehyde
 - Una roomba con fregado rotatorio y depósito de agua y polvo
-- [Daylight Computer](https://daylightcomputer.com/)
-- Entradas para [Spirited Away UK](https://www.spiritedawayuk.com/)
+- Una mesa para juegos de mesa como las de [Wyrmwood Gaming](https://linktr.ee/wyrmwoodgaming) o [Mesas ERMA](https://mesaserma.es/)
 
-_Ultima actualización:_ **14 de septiembre de 2024**
+_Ultima actualización:_ **17 de abril de 2025**
